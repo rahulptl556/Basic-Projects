@@ -1,0 +1,23 @@
+Viewport (wrapper) -> good practice
+ 100 vh 
+ overflow x hidden
+ overflow y auto
+
+Heading ->
+favicon,header(centered horizontally)
+bg color whitish grey
+
+
+Images -> 
+Flexbox, used space betwween around or gap to maintain gap btw images.
+curved border
+image has text = figure tag
+images are centered = left right margin is same
+
+Hover -> 
+Image opacity 1, else 0
+filer of black and white is removed
+black gradient on edges
+shadow on hover
+smoothly transitions (set time)
+img and text scale ho raha h
